@@ -1,0 +1,5 @@
+/* style rule for handling Unicode dice */
+
+span#die {
+	font-size: 800%;
+}
